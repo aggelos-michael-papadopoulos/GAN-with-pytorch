@@ -7,5 +7,5 @@
 
 ![0__PEWcPKaXEBla9pP](https://user-images.githubusercontent.com/65830412/157690269-f261421b-c0c6-4cbc-84e0-37e26f18183b.png)
 
-Generator must be more powerful network than the Discriminator, because it generates images, while the second one is just a binary classification (map 0/1)
+Generator must be more powerful network than the Discriminator, because it generates images, while the second one is just a binary classification (map 0/1).
 
