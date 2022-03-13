@@ -9,4 +9,4 @@
 
 Generator must be more powerful network than the Discriminator, because it generates images, while the second one is just a binary classification (map 0/1).
 
-At the end of the code we can see that as long as we pass through the epochs the generator represents better and better the MNIST dataset, making the Discriminator's task to detect whether the image is real or fake difficult.
+At the end of the code we can see that as long as we pass through the epochs the generator represents better and better the MNIST dataset, making the Discriminator's task to detect whether an image is real or fake very difficult(even to our eyes).
