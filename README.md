@@ -9,4 +9,9 @@
 
 Generator must be more powerful network than the Discriminator, because it generates images, while the second one is just a binary classification (map 0/1).
 
+Here is how the Generator and Discriminator pipeline looks like: 
+
+![dcgan_overall](https://user-images.githubusercontent.com/65830412/158572497-d206bf2a-c156-4c22-80d9-62fb6871f796.png)
+
+
 At the end of the code we can see that as long as we pass through the epochs the generator represents better and better the MNIST dataset, making the Discriminator's task to detect whether an image is real or fake very difficult(even to our eyes).
